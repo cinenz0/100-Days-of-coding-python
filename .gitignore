@@ -1,3 +1,4 @@
 exs/
 __pycache__/
 ReadyToSend\*.txt
+*.json
